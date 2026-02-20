@@ -36,7 +36,7 @@ Execute os programas através do menu Iniciar - digite na caixa de pesquisa o no
 
 ![](./4933839644470741897.jpg)
 
-O tutorial sobre executar e testar code:blocks (https://github.com/FNakano/Codeblocks-Install-Test?tab=readme-ov-file) pode ser uma boa continuação deste tutorial.
+O tutorial sobre executar e testar code:blocks (https://github.com/FNakano/Codeblocks-Install-Test?tab=readme-ov-file#procedimento), a partir do passo 4 do procedimento,  pode ser uma boa continuação deste tutorial. Lembrar que usuários normais (alunos, professores) não podem instalar programas no computador, somente o administrador (técnico da Seção de Informática) pode fazê-lo. 
 
 ### Linux
 
@@ -56,7 +56,7 @@ A informação é conferida pelo servidor de autenticação. Caso o login seja a
 
 ![](./4933839644470741926.jpg)
 
-Caso o login não seja autorizado ou o servidor de autenticação não esteja acessível, uma tela semelhante a esta é mostrada. Isto pode acontecer quanto muitas pessoas e computadores tentam logar *simultaneamente* (é um tipo de DDoS). Outra possibilidade é estar no Lab6 - se for o caso, siga por este link: 
+Caso o login não seja autorizado ou o servidor de autenticação não esteja acessível, uma tela semelhante a esta é mostrada. Isto pode acontecer quanto muitas pessoas e computadores tentam logar *simultaneamente* (é um tipo de DDoS). Outra possibilidade é estar no Lab6 - se for o caso, siga por este link: https://github.com/FNakano/LoginNosLabsSI?tab=readme-ov-file#lab6
 
 ![](./4933839644470741908.jpg)
 
@@ -89,8 +89,29 @@ Mesmo que não haja conexão internet, os programas instalados nos computadores 
 
 #### Lab6
 
-Os computadores Daten, atualmente no lab 6, frequentemente não ativam a interface de rede WiFi quando ligados no Linux pela primeira vez. Detalhes aqui. A solução rápida é  iniciar o computador no Windows e reiniciar no Linux, não é necessário logar no Windows.
+Os computadores Daten, atualmente no lab 6, frequentemente não ativam a interface de rede WiFi quando ligados no Linux pela primeira vez. A solução é  iniciar o computador no Windows e reiniciar no Linux, não é necessário logar no Windows. Veja detalhes com fotos a seguir.
 
+O login no Ubuntu pode falhar
+
+![](./4933839644470741908.jpg)
+
+Na tela de login do Ubuntu a falta do ícone de conexão na rede sem fio indica que o computador não conseguiu conectar-se à rede dos laboratórios.
+
+![](./4933839644470741909.jpg)
+
+Para resolver isso, reinicie o computador no Windows e volte para o Ubuntu
+
+![](./4933839644470741910.jpg)
+
+![](./4933839644470741915.jpg)
+
+![](./4933839644470741918.jpg)
+
+![](./4933839644470741923.jpg)
+
+É possível, no Windows, checar a conexão à rede :
+  
+![](./4933839644470741917.jpg)
 
 ## Comentários e Correções
 
