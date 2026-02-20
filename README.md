@@ -24,7 +24,7 @@ Escolhendo Windows, o sistema operacional é iniciado e é apresentada a tela de
 
 ![](./4933839644470741886.jpg)
 
-Selecione seu usuário, ou *Outro usuário*, preencha as caixas de texto com sua credencial e senha.
+Selecione seu usuário, ou *Outro usuário*, preencha as caixas de texto com sua credencial e senha. Digite [Usuário: a<seu número> , senha:<outro número>]
 
 ![](./4933839644470741888.jpg)
 
@@ -48,7 +48,7 @@ Escolhendo Ubuntu, o sistema operacional é iniciado e é apresentada a tela de 
 
 ![](./4933839644470741904.jpg)
 
-Selecione seu usuário, ou *Não está listado?*, preencha as caixas de texto com sua credencial e senha.
+Selecione seu usuário, ou *Não está listado?*, preencha as caixas de texto com sua credencial e senha. Digite [Usuário: a<seu número> , senha:<outro número>]
 
 ![](./4933839644470741905.jpg)
 
