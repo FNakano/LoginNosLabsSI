@@ -67,11 +67,13 @@ Execute os programas através do menu Mostrar programas
 
 digite na caixa de pesquisa o nome do programa, por exemplo `terminal`, `gedit`, `nano`, ... 
 
-file:///home/fabio/MeuGithub/LoginNosLabsSI/4933839644470741936.jpg
+![](./4933839644470741936.jpg)
+
 
 escolhendo o terminal, ou usando o atalho CRLR-ALT-t o terminal é aberto.
 
-file:///home/fabio/MeuGithub/LoginNosLabsSI/4933839644470741937.jpg
+![](./4933839644470741937.jpg)
+
 
 O tutorial sobre como usar o shell Linux (https://github.com/FNakano/IP-Apostila/tree/main/ShellLinux) ou o Olá Mundo (https://github.com/FNakano/IP-Apostila/tree/main/InstalarTermux#escrever-um-programa-curto) podem ser boas continuações a partir deste ponto.
 
