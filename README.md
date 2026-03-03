@@ -2,9 +2,9 @@
 
 Criado em 2026-02-16
 
-Atualizado em 2026-02-20
+Atualizado em 2026-03-03
 
-Por favor, leia o restante do documento ao menos uma vez. Os computadores dos labs podem ter características particulares aos modelos e versões de programas. 
+Por favor, leia o restante do documento ao menos uma vez. Os computadores dos labs podem ter características particulares aos modelos e versões de programas. Também é possível haver atualizações sobre programas instalados.
 
 Versão rápida: Ligue o computador, selecione o sistema operacional que deseja iniciar, na tela de autenticação digite [Usuário: a<seu número> , senha:<outro número>] tanto no Windows quanto no Linux. Não precisa especificar domínio. 
 
@@ -83,8 +83,11 @@ O tutorial sobre como usar o shell Linux (https://github.com/FNakano/IP-Apostila
 Mesmo que não haja conexão internet, os programas instalados nos computadores continuam úteis, mesmo que não seja possível baixar pacotes suplementares e consultar o help on line. Um usuário criado localmente, mesmo sem acesso à internet, pode ser suficiente.
 
 
-### Como usar os compiladores C disponíveis em cada Sistema Operacional
+### Cuidados no laboratório
 
+Os teclados e mouses instalados nos computadores dos laboratórios não suportam uso intensivo. Os botões e teclas podem parar de funcionar com o tempo. Pede-se cuidado ao usá-los. A substituição de teclados e mouses pode demorar mais de um ano. Por isso, pede-se não beber ou comer enquanto usa o computador.
+
+As portas USB e todos os conectores mecânicos ficam gastos com o uso. Pede-se cuidado ao usá-las. Em geral, esses conectores não podem ser substituídos pois são soldados na placa-mãe. Quando muitas portas USB ficam gastas em um computador ele precisa ser substituído pois nem teclado e mouse podem ser conectados. A substituição de um computador pode demorar alguns anos.
 
 
 ### Particularidades
@@ -114,6 +117,12 @@ Para resolver isso, reinicie o computador no Windows e volte para o Ubuntu
 É possível, no Windows, checar a conexão à rede :
   
 ![](./4933839644470741917.jpg)
+
+## Info sobre programas instalados
+
+### Compilador C
+
+Recomenda-se o uso de Linux e GCC pois, no Windows, não há compilador C instalado, embora Code:Blocks esteja instalado.
 
 ## Comentários e Correções
 
