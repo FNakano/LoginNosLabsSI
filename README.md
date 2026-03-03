@@ -4,7 +4,7 @@ Criado em 2026-02-16
 
 Atualizado em 2026-03-03
 
-Por favor, leia o restante do documento ao menos uma vez. Os computadores dos labs podem ter características particulares aos modelos e versões de programas. Também é possível haver atualizações sobre programas instalados.
+Por favor, leia o restante do documento ao menos uma vez. Os computadores dos labs podem ter características particulares aos modelos e versões de programas. Também é possível haver atualizações sobre programas instalados: https://github.com/FNakano/LoginNosLabsSI?tab=readme-ov-file#info-sobre-programas-instalados.
 
 Versão rápida: Ligue o computador, selecione o sistema operacional que deseja iniciar, na tela de autenticação digite [Usuário: a<seu número> , senha:<outro número>] tanto no Windows quanto no Linux. Não precisa especificar domínio. 
 
@@ -123,6 +123,9 @@ Para resolver isso, reinicie o computador no Windows e volte para o Ubuntu
 ### Compilador C
 
 Recomenda-se o uso de Linux e GCC pois, no Windows, não há compilador C instalado, embora Code:Blocks esteja instalado.
+
+- Tutorial sobre uma maneira de usar GCC no Linux: https://github.com/FNakano/IP-Apostila/tree/main/InstalarTermux#escrever-um-programa-curto
+- Comandos básicos de prompt (shell) Linux: https://github.com/FNakano/IP-Apostila/tree/main/ShellLinux
 
 ## Comentários e Correções
 
